@@ -165,13 +165,8 @@ if __name__ == '__main__':
     #print rank['chr9_135202993.0_G>A']
     #print sorted(rank.iteritems(), key=operator.itemgetter(1),reverse = True)
     #f.close()
-    '''
-    List = ChangeFileToList('pred')
-    print len(List)
-    for i in List:
-        Prediction(Dict[i])
-        print Dict[i]['ExonicFunc.refGene'],DamagePrediction(Dict[i]), ConservePrediction(Dict[i])
-    '''
+   
+    
  
     
     
